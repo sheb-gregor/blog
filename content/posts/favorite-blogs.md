@@ -1,5 +1,5 @@
 ---
-title: "Favourite Blogs"
+title: "Favorite Blogs"
 date: 2023-01-04T23:34:29+02:00
 draft: false
 tags: ["blogs"]
@@ -23,9 +23,17 @@ Here is list of some interesting blogs, that I like and check for updates time t
 
 - https://justine.lol — creator of the *Cosmopolitan Libc*, _"αcτµαlly pδrταblε εxεcµταblε"_, etc.
 
+#### Ten Minute Physics
+
+ - [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html) - basic concepts of physically based simulation and code examples.
+
+#### Mara's Blog 
+
+- https://blog.m-ou.se/ - 🦀🦀🦀Rusty🦀🦀🦀 blog.
+
 #### Matteo Bertrone 
 
-- https://mbertrone.github.io — few publication about eBPF.
+- https://mbertrone.github.io — some publication about eBPF.
 
 #### Ariadne Conill 
 
